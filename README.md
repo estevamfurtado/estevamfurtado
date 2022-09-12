@@ -1,7 +1,7 @@
 ## 👋 Hello, there! I'm Estevam Furtado
 
 - 🎓 Industrial Engineer <a href="https://ufrj.br/en/">@ UFRJ</a>
-- 💼 Used to work in finance for several years <a href="https://charlesriver.com.br/performance">@ Charles River Capital</a>  
+- 💼 Worked in finance for several years <a href="https://charlesriver.com.br/performance">@ Charles River Capital</a>  
 - 🚀 Full stack dev <a href="https://www.driven.com.br/">@ Driven</a>
 - 🧙‍♂️ Always building something. Currently working in a personal project `🏛️ Polis`
 
