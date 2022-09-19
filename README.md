@@ -1,6 +1,6 @@
 ## 👋 Hello, there! I'm Estevam Furtado
 
-- 🚀 Full stack dev <a href="https://www.driven.com.br/">@ Driven</a>
+- 🚀 Full Stack Web Developer <a href="https://www.driven.com.br/">@ Driven</a>
 - 🧙‍♂️ Always building something. Currently working in a personal project <a href="https://github.com/estevamfurtado/polis">`🏛️ Polis`</a>
 - 🎓 Industrial Engineer <a href="https://ufrj.br/en/">@ UFRJ</a>
 - 💼 Worked in finance for several years <a href="https://charlesriver.com.br/performance">@ Charles River Capital</a>  
