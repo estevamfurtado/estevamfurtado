@@ -1,9 +1,9 @@
 ## 👋 Hello, there! I'm Estevam Furtado
 
+- 🚀 Full stack dev <a href="https://www.driven.com.br/">@ Driven</a>
+- 🧙‍♂️ Always building something. Currently working in a personal project <a href="https://github.com/estevamfurtado/polis">`🏛️ Polis`</a>
 - 🎓 Industrial Engineer <a href="https://ufrj.br/en/">@ UFRJ</a>
 - 💼 Worked in finance for several years <a href="https://charlesriver.com.br/performance">@ Charles River Capital</a>  
-- 🚀 Full stack dev <a href="https://www.driven.com.br/">@ Driven</a>
-- 🧙‍♂️ Always building something. Currently working in a personal project `🏛️ Polis`
 
  <!--
   and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" height="23em" align="center" alt="Golang" title="Golang"/>
